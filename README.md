@@ -1,5 +1,21 @@
-## Hi there 👋
-<h1 align="center">👋 Hey, I'm Naresh Mandla</h1>
+
+
+<!--
+**thenareshm/thenareshm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align="center">Hi there👋,  I'm Naresh Mandla</h1>
 <p align="center">
   Product Manager • AI & AR Innovator • SaaS Builder • Engineering Management (KU)
 </p>
@@ -33,10 +49,10 @@
 ### 🚀 Featured projects
 | Project | What it is | Stack / Role |
 |---|---|---|
-| **[Elenchus](https://github.com/thenareshm/elenchus)** | Social discussion app for thoughtful dialogue | TypeScript, Next.js, Supabase • PM + Builder |
+| **[Elenchus](https://github.com/thenareshm/elenchus)** • [Live Demo](https://www.elenchus.app/) | Social discussion app for thoughtful dialogue | TypeScript, Next.js, Supabase • PM + Builder |
 | **Pumpkin Patch (Snapchat AR)** | AR game with 15k+ views & 7k long plays in 3 days | Lens Studio • AR dev, A/B testing, analytics |
-| **[Iris Social Media App](https://github.com/thenareshm/iris-social-media-app)** | Modern UI social media prototype | React, TypeScript • PM + FE |
-
+| **[Iris Social Media App](https://github.com/thenareshm/iris-social-media-app)** • [Live Demo](https://iris-social-media-app.vercel.app/) | Modern UI social media prototype | React, TypeScript • PM + FE |
+| **[Bible Chat](https://github.com/thenareshm/bible-chat-waitlist)** • [Live Demo](https://bible-chat-waitlist.vercel.app) | AI-powered scripture discussion & waitlist app | Next.js, TypeScript, Vercel • PM + Builder |
 
 > 🌐 More at [nareshmandla.com](https://www.nareshmandla.com)
 
@@ -62,18 +78,3 @@
 📧 Email: thenareshm4@gmail.com  
 
 > *“Building products at the intersection of AI, AR, and human connection.”*
-
-<!--
-**thenareshm/thenareshm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
