@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thenareshm&show_icons=true&theme=radical" />
+  
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenareshm&layout=compact&theme=radical" />
 </p>
 
