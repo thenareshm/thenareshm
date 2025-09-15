@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there👋,  I'm Naresh Mandla</h1>
 <p align="center">
-  Product Manager • AI & AR Innovator • SaaS Builder • Engineering Management (KU)
+  Product Manager • AI & AR Innovator • SaaS Builder • Engineering Management
 </p>
 
 <p align="center">
