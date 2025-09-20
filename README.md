@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### 🚀 Featured projects
 | Project | What it is | Stack / Role |
 |---|---|---|
-| **[Elenchus](https://github.com/thenareshm/elenchus)** • [Live Demo](https://www.elenchus.app/) | Social discussion app for thoughtful dialogue | TypeScript, Next.js, Firebase • PM + Builder |
+| **[Elenchus]** • [Live Demo](https://www.elenchus.app/) | Social discussion app for thoughtful dialogue | TypeScript, Next.js, Firebase • PM + Builder |
 | **Pumpkin Patch (Snapchat AR)** | AR game with 15k+ views & 7k long plays in 3 days | Lens Studio • AR dev, A/B testing, analytics |
 | **[Iris Social Media App](https://github.com/thenareshm/iris-social-media-app)** • [Live Demo](https://iris-social-media-app.vercel.app/) | Modern UI social media prototype | React, TypeScript • PM + FE |
 | **[Bible Chat](https://github.com/thenareshm/bible-chat-waitlist)** • [Live Demo](https://bible-chat-waitlist.vercel.app) | AI-powered scripture discussion & waitlist app | Next.js, TypeScript, Vercel • PM + Builder |
