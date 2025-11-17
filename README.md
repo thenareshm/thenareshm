@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.nareshmandla.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-nareshmandla.com-informational?logo=vercel"></a>
   <a href="https://www.linkedin.com/in/nareshmandla"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nareshmandla-blue?logo=linkedin"></a>
-  <a href="mailto:nareshmandla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thenareshm4%40gmail.com-red?logo=gmail"></a>
+  <a href="mailto:nareshmandla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nareshmandla%40gmail.com-red?logo=gmail"></a>
   <a href="https://github.com/thenareshm?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-thenareshm-black?logo=github"></a>
 </p>
 
