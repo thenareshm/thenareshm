@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 ### 🌍 Connect
 📌 [Portfolio](https://www.nareshmandla.com) •  
 💼 [LinkedIn](https://www.linkedin.com/in/nareshmandla) •  
-📧 Email: thenareshm4@gmail.com  
+📧 Email: nareshmandla@gmail.com  
 
 > *“Building products at the intersection of AI, AR, and human connection.”*
