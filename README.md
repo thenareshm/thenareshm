@@ -13,7 +13,7 @@
 ---
 
 ### 💡 About me
-- 🚀 Product Manager at **Digital Aid Seattle** where I launched an AI powered grant writing platform with 60% activation and 40% repeat usage in 90 days.  
+- 🚀 Product Manager at **Digital Aid Seattle** where I launched an AI powered grant writing platform with 60% activation.  
 - 🤖 Built **RAG customer support agents** using n8n, OpenAI, Pinecone, Gmail, and Google Drive.  
 - 🧪 Founder of **Impulse Fitness**, scaled to USD 3.4K MRR and USD 41K ARR with 30% YOY growth.  
 - 🎮 AR Extern at **Snapchat**, shipped the **Pumpkin Patch** AR game with 15k+ views and 7k long plays in three days.  
