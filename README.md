@@ -1,27 +1,10 @@
-
-
-<!--
-**thenareshm/thenareshm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there👋,  I'm Naresh Mandla</h1>
+<h1 align="center">Hi there 👋 I am Naresh Mandla</h1>
 <p align="center">
-  Product Manager • AI & AR Innovator • SaaS Builder • Engineering Management
+  Product Manager • AI Automation Builder • AR Innovator • Engineering Management
 </p>
 
 <p align="center">
-  <a href="https://www.nareshmandla.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-nareshmandla.com-informational?logo=vercel"></a>
+  <a href="https://www.nareshmandla.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-nareshmandla.com-informational?logo=vercel"></a>
   <a href="https://www.linkedin.com/in/nareshmandla"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nareshmandla-blue?logo=linkedin"></a>
   <a href="mailto:nareshmandla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nareshmandla%40gmail.com-red?logo=gmail"></a>
   <a href="https://github.com/thenareshm?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-thenareshm-black?logo=github"></a>
@@ -30,51 +13,56 @@ Here are some ideas to get you started:
 ---
 
 ### 💡 About me
-- 🚀 Product Manager @ **Digital Aid Seattle** (driving nonprofit tech ventures).  
-- 🕹️ AR Extern @ **Snapchat** → launched **Pumpkin Patch** AR game (15k+ views, 99% play rate).  
-- 🎓 MS in **Engineering Management** (Product & Project Management), KU.  
-- 🏆 Certifications: PSPO • AI PM (Google Cloud) • Product-Led Growth • Lean Six Sigma.  
+- 🚀 Product Manager at **Digital Aid Seattle** where I launched an AI powered grant writing platform with 60% activation and 40% repeat usage in 90 days.  
+- 🤖 Built **RAG customer support agents** using n8n, OpenAI, Pinecone, Gmail, and Google Drive.  
+- 🧪 Founder of **Impulse Fitness**, scaled to USD 3.4K MRR and USD 41K ARR with 30% YOY growth.  
+- 🎮 AR Extern at **Snapchat**, shipped the **Pumpkin Patch** AR game with 15k+ views and 7k long plays in three days.  
+- 🎓 MS in Engineering Management with focus on Product and Project Management.  
+- 🏅 Certifications: PSPO • AI Product Management (Google Cloud) • Product Led Growth • Lean Six Sigma.  
 
 ---
 
 ### 🛠️ My toolkit
-**Product & Strategy:** Jira • Miro • Asana • Airtable • SWOT • Gantt • Kanban  
-**Design & Prototyping:** Figma • Framer • Lens Studio • Blender (3D/Spatial)  
-**Data & Analytics:** SQL • R • Python • Tableau • Power BI • Google Analytics  
-**Dev & Collab:** React • Next.js • TypeScript • Tailwind CSS • Firebase • Supabase • GitHub • Slack  
-**AI Toolkit:** OpenAI • Claude • Cursor • n8n • Perplexity • Lovable  
+
+**Product & Strategy:** Jira • Miro • Asana • Airtable • Gantt • Kanban • Roadmapping  
+**AI & Automation:** OpenAI • Claude • n8n • Pinecone • Embeddings • Retrieval • Vector databases  
+**Design & Prototyping:** Figma • Framer • Lens Studio • Blender (3D)  
+**Data & Analytics:** SQL • Tableau • Power BI • Python • R  
+**Engineering & Dev:** Next.js • React • TypeScript • Tailwind CSS • Firebase • Supabase • GitHub • Slack  
 
 ---
 
-### 🚀 Featured projects
-| Project | What it is | Stack / Role |
-|---|---|---|
-| **Elenchus** • [Live Demo](https://www.elenchus.app/) | Social discussion app for thoughtful dialogue | TypeScript, Next.js, Firebase • PM + Builder |
-| **Pumpkin Patch (Snapchat AR)** | AR game with 15k+ views & 7k long plays in 3 days | Lens Studio • AR dev, A/B testing, analytics |
-| **[Iris Social Media App](https://github.com/thenareshm/iris-social-media-app)** • [Live Demo](https://iris-social-media-app.vercel.app/) | Modern UI social media prototype | React, TypeScript • PM + FE |
-| **[Bible Chat](https://github.com/thenareshm/bible-chat-waitlist)** • [Live Demo](https://bible-chat-waitlist.vercel.app) | AI-powered scripture discussion & waitlist app | Next.js, TypeScript, Vercel • PM + Builder |
+### 🚀 Featured Projects
 
-> 🌐 More at [nareshmandla.com](https://www.nareshmandla.com)
+| Project | Description | Stack / Role |
+|--------|-------------|--------------|
+| **n8n RAG Customer Support Agents** | End to end RAG agents that retrieve policy answers, generate email replies, and auto ingest documents | n8n, OpenAI, Pinecone, Gmail, Drive • PM + Builder |
+| **Elenchus** • [Live](https://www.elenchus.app/) | Social discussion platform for thoughtful and productive dialogue | Next.js, Firebase • PM + Builder |
+| **Impulse Fitness** | Scaled to USD 3.4K MRR and USD 41K ARR with optimized acquisition funnels | PM + Founder |
+| **Iris Social Media App** • [Live](https://iris-social-media-app.vercel.app/) | Modern UI social media prototype | React, TypeScript • PM + FE |
+| **Bible Chat** • [Live](https://bible-chat-waitlist.vercel.app) | AI powered scripture discussion chat + waitlist app | Next.js, Vercel • PM + Builder |
+| **Pumpkin Patch (Snapchat AR)** | AR game with 15k+ views and 7k long plays in 3 days | Lens Studio • AR Developer |
 
 ---
 
 ### 📊 GitHub Stats
-<p>
-  
+
+<p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenareshm&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🌱 Currently working on
-- Shipping **Elenchus** MVP  
-- Building **Parkbench** (video conversation platform with Spriggy 🐿️ mascot)  
+- Improving **RAG customer support agent** workflows  
+- Shipping **Elenchus MVP** and redesigning onboarding  
+- Building **Parkbench**, an emotional support video conversation platform with the Spriggy mascot  
 
 ---
 
 ### 🌍 Connect
-📌 [Portfolio](https://www.nareshmandla.com) •  
-💼 [LinkedIn](https://www.linkedin.com/in/nareshmandla) •  
-📧 Email: nareshmandla@gmail.com  
+📌 Portfolio: **nareshmandla.com**  
+💼 LinkedIn: **linkedin.com/in/nareshmandla**  
+📧 Email: **nareshmandla@gmail.com**
 
-> *“Building products at the intersection of AI, AR, and human connection.”*
+> *Building practical AI that helps people work faster, connect deeper, and solve real problems.*
