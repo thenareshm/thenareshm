@@ -36,8 +36,8 @@
 
 | Project | Description | Stack / Role |
 |--------|-------------|--------------|
-| **n8n RAG Customer Support Agents** | End to end RAG agents that retrieve policy answers, generate email replies, and auto ingest documents | n8n, OpenAI, Pinecone, Gmail, Drive • PM + Builder |
 | **Elenchus** • [Live](https://www.elenchus.app/) | Social discussion platform for thoughtful and productive dialogue | Next.js, Firebase • PM + Builder |
+| **n8n RAG Customer Support Agents** • [GitHub](https://github.com/thenareshm/n8n-rag-customer-support-agents) | End to end RAG agents that retrieve policy answers, generate email replies, and auto ingest documents | n8n, OpenAI, Pinecone, Gmail, Drive • PM + Builder |
 | **Impulse Fitness** | Scaled to USD 3.4K MRR and USD 41K ARR with optimized acquisition funnels | PM + Founder |
 | **Iris Social Media App** • [Live](https://iris-social-media-app.vercel.app/) | Modern UI social media prototype | React, TypeScript • PM + FE |
 | **Bible Chat** • [Live](https://bible-chat-waitlist.vercel.app) | AI powered scripture discussion chat + waitlist app | Next.js, Vercel • PM + Builder |
