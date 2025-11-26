@@ -55,7 +55,7 @@
 
 ### 🌱 Currently working on
 - Improving **RAG customer support agent** workflows  
-- Shipping **Elenchus MVP** and redesigning onboarding  
+- Shipping **Elenchus** and redesigning onboarding  
 - Building **Parkbench**, an emotional support video conversation platform with the Spriggy mascot  
 
 ---
