@@ -37,6 +37,7 @@
 | Project | Description | Stack / Role |
 |--------|-------------|--------------|
 | **Elenchus** • [Live](https://www.elenchus.app/) | Social discussion platform for thoughtful and productive dialogue | Next.js, Firebase • PM + Builder |
+| **GranterAI** • [Live](https://granterai.vercel.app/) | AI powered grant recipe builder that lets nonprofits create repeatable prompts, attach project context, generate structured JSON outputs, and reuse content across applications | React, TypeScript, Firebase, OpenAI, Gemini • PM + Builder |
 | **n8n RAG Customer Support Agents** • [GitHub](https://github.com/thenareshm/n8n-rag-customer-support-agents) | End to end RAG agents that retrieve policy answers, generate email replies, and auto ingest documents | n8n, OpenAI, Pinecone, Gmail, Drive • PM + Builder |
 | **Impulse Fitness** | Scaled to USD 3.4K MRR and USD 41K ARR with optimized acquisition funnels | PM + Founder |
 | **Iris Social Media App** • [Live](https://iris-social-media-app.vercel.app/) | Modern UI social media prototype | React, TypeScript • PM + FE |
