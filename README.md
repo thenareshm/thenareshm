@@ -57,6 +57,7 @@
 ### 🌱 Currently working on
 - Improving **RAG customer support agent** workflows  
 - Shipping **Elenchus** and redesigning onboarding  
+- Building **GranterAI**, a multi-LLM grant recipe builder with Google Drive project context and structured output generation  
 - Building **Parkbench**, an emotional support video conversation platform with the Spriggy mascot  
 
 ---
