@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I am Naresh Mandla</h1>
 <p align="center">
-  Product Manager • AI Automation Builder • AR Innovator • Engineering Management
+  Product Manager • AI Automation Builder • Engineering Management
 </p>
 
 <p align="center">
