@@ -27,7 +27,7 @@
 **Product & Strategy:** Jira • Miro • Asana • Airtable • Gantt • Kanban • Roadmapping  
 **AI & Automation:** OpenAI • Claude • n8n • Pinecone • Embeddings • Retrieval • Vector databases  
 **Design & Prototyping:** Figma • Framer • Lens Studio • Blender (3D)  
-**Data & Analytics:** SQL • Tableau • Power BI • Python • R  
+**Data & Analytics:** SQL • Tableau • R  
 **Engineering & Dev:** Next.js • React • TypeScript • Tailwind CSS • Firebase • Supabase • GitHub • Slack  
 
 ---
