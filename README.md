@@ -65,6 +65,6 @@
 ### 🌍 Connect
 📌 Portfolio: **nareshmandla.com**  
 💼 LinkedIn: **linkedin.com/in/nareshmandla**  
-📧 Email: **nareshmandla@gmail.com**
+📧 Email: **naresh.mandla@gmail.com**
 
 > *Building practical AI that helps people work faster, connect deeper, and solve real problems.*
