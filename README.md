@@ -22,16 +22,6 @@
 
 ---
 
-### 🛠️ My toolkit
-
-**Product & Strategy:** Jira • Miro • Asana • Airtable • Gantt • Kanban • Roadmapping  
-**AI & Automation:** OpenAI • Claude • n8n • Pinecone • Embeddings • Retrieval • Vector databases  
-**Design & Prototyping:** Figma • Framer • Lens Studio • Blender (3D)  
-**Data & Analytics:** SQL • Tableau • R  
-**Engineering & Dev:** Next.js • React • TypeScript • Tailwind CSS • Firebase • Supabase • GitHub • Slack  
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Stack / Role |
@@ -51,6 +41,16 @@
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenareshm&layout=compact&theme=radical" />
 </p>
+
+---
+
+### 🛠️ My toolkit
+
+**Product & Strategy:** Jira • Miro • Asana • Airtable • Gantt • Kanban • Roadmapping  
+**AI & Automation:** OpenAI • Claude • n8n • Pinecone • Embeddings • Retrieval • Vector databases  
+**Design & Prototyping:** Figma • Framer • Lens Studio • Blender (3D)  
+**Data & Analytics:** SQL • Tableau • R  
+**Engineering & Dev:** Next.js • React • TypeScript • Tailwind CSS • Firebase • Supabase • GitHub • Slack  
 
 ---
 
